@@ -1,0 +1,10 @@
+[Fri Feb 17 13:23:04 2017] [error] [client 192.168.1.24] File does not exist: /home/projects/ivan/host30/fonts/glyphicons-halflings-regular.eot, referer: http://www.host30.ivan.tk/
+[Fri Feb 17 13:23:04 2017] [error] [client 192.168.1.24] File does not exist: /home/projects/ivan/host30/fonts/Lato-Regular/Lato-Regular.woff) format("woff"), url(.., referer: http://www.host30.ivan.tk/
+[Fri Feb 17 13:23:04 2017] [error] [client 192.168.1.24] File does not exist: /home/projects/ivan/host30/fonts/Lato-Regular/LatoRegular.woff2) format("woff2"), url(.., referer: http://www.host30.ivan.tk/
+[Fri Feb 17 13:23:04 2017] [error] [client 192.168.1.24] File does not exist: /home/projects/ivan/host30/fonts/Lato-Bold/Lato-Bold.woff) format("woff"), url(.., referer: http://www.host30.ivan.tk/
+[Fri Feb 17 13:23:04 2017] [error] [client 192.168.1.24] File does not exist: /home/projects/ivan/host30/fonts/Lato-Bold/LatoBold.woff2) format("woff2"), url(.., referer: http://www.host30.ivan.tk/
+[Fri Feb 17 13:23:04 2017] [error] [client 192.168.1.24] File does not exist: /home/projects/ivan/host30/fonts/OpenSans-Regular/OpenSans-Regular.eot) format("embedded-opentype"), url(.., referer: http://www.host30.ivan.tk/
+[Fri Feb 17 13:23:04 2017] [error] [client 192.168.1.24] File does not exist: /home/projects/ivan/host30/fonts/OpenSans-Semibold/OpenSans-Semibold.eot) format("embedded-opentype"), url(.., referer: http://www.host30.ivan.tk/
+[Fri Feb 17 13:23:04 2017] [error] [client 192.168.1.24] File does not exist: /home/projects/ivan/host30/fonts/OpenSans-Bold/OpenSans-Bold.eot) format("embedded-opentype"), url(.., referer: http://www.host30.ivan.tk/
+[Fri Feb 17 13:23:04 2017] [error] [client 192.168.1.24] File does not exist: /home/projects/ivan/host30/fonts/OpenSans-Extrabold, referer: http://www.host30.ivan.tk/
+[Wed May 24 08:31:01 2017] [error] [client 192.168.1.24] File does not exist: /home/projects/ivan/host30/game
